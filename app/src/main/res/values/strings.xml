@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Designed and developed by Imran
+-->
+<resources>
+    <string name="IDS_APP_NAME">Rapido</string>
+    <string name="IDS_CHANNEL_ID">channel_id</string>
+    <string name="IDS_CHANNEL_NAME">notification_timer</string>
+    <string name="IDS_CREATE_NOTIFICATION">Create Notification</string>
+</resources>
